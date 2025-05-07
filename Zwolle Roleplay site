@@ -38,15 +38,15 @@
       cursor: pointer;
     }
     img {
-      width: 200px;
+      width: 150px;
       margin-bottom: 20px;
     }
   </style>
 </head>
 <body>
 
-  <!-- Je logo -->
-  <img src="jouwlogo.png" alt="Zwolle Roleplay Logo">
+  <!-- Logo -->
+  <img src="logo.png" alt="Zwolle Roleplay Logo">
 
   <h1>Zwolle Roleplay Donatiewinkel</h1>
 
@@ -61,38 +61,39 @@
   <div class="product">
     <h2>TX-Admin Unban</h2>
     <p>Unban via TXAdmin binnen 24 uur</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/5.00'">Koop nu (€5,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/5'">Koop nu (€5,00)</button>
   </div>
 
   <div class="product">
     <h2>Discord Unban</h2>
     <p>Herstel je toegang tot onze Discord-server</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/5.00'">Koop nu (€5,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/5'">Koop nu (€5,00)</button>
   </div>
 
   <div class="product">
     <h2>Anticheat Unban</h2>
     <p>Verwijder je ban van het anticheat systeem</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/10.00'">Koop nu (€10,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/10'">Koop nu (€10,00)</button>
   </div>
 
   <div class="product">
     <h2>Ticket Support</h2>
     <p>Priority Ticket Support voor hulp bij problemen</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/7.00'">Koop nu (€7,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/7'">Koop nu (€7,00)</button>
   </div>
 
   <div class="product">
     <h2>Wapenpakket: M1911</h2>
     <p>Ontvang het M1911 wapen in-game</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/5.00'">Koop nu (€5,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/5'">Koop nu (€5,00)</button>
   </div>
 
   <div class="product">
     <h2>Wapenpakket: AKM</h2>
     <p>Ontvang het AKM wapen in-game</p>
-    <button onclick="window.location.href='https://www.paypal.com/paypalme/kurkthijs/6.00'">Koop nu (€6,00)</button>
+    <button onclick="window.location.href='https://paypal.me/ThijsKurk/6'">Koop nu (€6,00)</button>
   </div>
 
 </body>
 </html>
+
